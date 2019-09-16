@@ -1,0 +1,26 @@
+{
+  "id": "c0d76cf6-735c-402b-996c-925a3fc136d5",
+  "name": "FORMATION",
+  "publisher": "Sabine ASLAN ",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://FORMATION1.com/help/",
+  "showMyCode": true,
+  "runtime": "3.2"
+}
